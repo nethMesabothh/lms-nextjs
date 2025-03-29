@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1743178127391,
+      "tag": "0000_colorful_deathbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1743232715240,
+      "tag": "0001_huge_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1743238878712,
+      "tag": "0002_jittery_tempest",
+      "breakpoints": true
+    }
+  ]
+}
